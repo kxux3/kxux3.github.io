@@ -1,0 +1,14 @@
+
+
+body {
+	background-color: yellow;
+  font-size: 50px;
+  color: white;
+	text-align: center;
+}
+video{
+	position: absolute;
+top:200px;
+left:380px;
+
+}
