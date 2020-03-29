@@ -48,6 +48,7 @@ color: white;
 }
 h6{
 	position: absolute;
+<<<<<<< HEAD
 	top: 520px;
 	  color:white;
 		font-size: 20px;
@@ -80,3 +81,9 @@ left: 170px;
 color: white;
   font-size: 20px;
 }
+=======
+	top: 480px;
+	  color:white;
+		font-size: 20px;
+}
+>>>>>>> 5d6bd4c94c03edf96cda82d29af3c21f9361854b
