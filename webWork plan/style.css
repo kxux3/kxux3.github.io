@@ -1,0 +1,54 @@
+
+body {
+
+	background-color: black;
+  font-size: 50px;
+  font: white;
+	text-align: center;
+}
+
+#p1{
+	position: absolute;
+	top: 130px;
+left:100px;
+
+}
+#t1 {
+position: absolute;
+top: 170px;
+left:600px;
+  width:200px;
+}
+
+#h1{
+	position: absolute;
+	top: 340px;
+	left:600px;
+	right:50px;
+	  width:200px;
+
+}
+
+h2{
+color: white;
+	position: absolute;
+	top: 200px;
+	left:400px;
+}
+
+h3{
+color: white;
+
+}
+#p3{
+
+	position: absolute;
+	top: 140px;
+	left:280px;
+}
+h6{
+	position: absolute;
+	top: 480px;
+	  color:white;
+		font-size: 20px;
+}
