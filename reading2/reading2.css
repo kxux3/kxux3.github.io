@@ -43,15 +43,31 @@ h6{
 
 		#p2{
 			position: absolute;
-			top: 900px;
+			top: 1300px;
 			left:450px;
 		   width:200px;
 		}
+		#p3{
+			position: absolute;
+			top: 900px;
+			left:250px;
+			 width:200px;
+		}
+
+		#p4{
+
+			position: absolute;
+			top: 900px;
+			left:650px;
+			 width:200px;
+		}
+
 h1{
 	position: absolute;
 	top: 1200px;
-left:500px;
+  left:500px;
 		font-size: 10px;
 	    color: white;
 
 }
+
