@@ -1,5 +1,4 @@
 
-
 body {
 
 	background-color: black;
@@ -23,7 +22,7 @@ h3{
 	color: white;
 	position: absolute;
 	top: 630px;
-left: 140px;
+left: 240px;
 }
 h4{
     color: white;
@@ -44,7 +43,7 @@ h6{
 
 		#p2{
 			position: absolute;
-			top: 1300px;
+			top: 1340px;
 			left:450px;
 		   width:200px;
 		}
@@ -61,6 +60,25 @@ h6{
 			top:1000px;
 			left:650px;
 			 width:200px;
+		}
+		#pY{
+			position: absolute;
+			top: 2000px;
+
+
+		}
+		#pS{
+
+			position: absolute;
+			top: 1300px;
+			left:850px;
+		}
+
+		#pT{
+			position: absolute;
+			top: 1300px;
+			left:50px;
+
 		}
 
 h1{
