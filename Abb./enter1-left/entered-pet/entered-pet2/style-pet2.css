@@ -1,0 +1,26 @@
+body{
+  background-color: black;
+}
+h6,h2{
+background-color: white;
+  animation: type 60s steps(500);
+  overflow: hidden;
+  font: white;
+  white-space: nowrap;
+
+  width: 500ch;
+}
+@keyframes type {
+  0%{
+    width: 0ch;
+  }
+
+100%{ width:500ch;}
+
+}
+#button1{
+
+  position: absolute;
+  top:1100px;
+  left:650px;
+}

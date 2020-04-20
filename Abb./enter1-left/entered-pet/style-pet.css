@@ -1,0 +1,53 @@
+
+body {
+background-image:
+url("https://media.giphy.com/media/jRlP4zbERYW5HoCLvX/giphy.gif")
+
+
+}
+
+#txt {
+background-color: inherit;
+font-size: 120em;
+line-height: 0.5em;
+
+z-index: 1;
+}
+/*end*/
+/*\*/
+html*#txt {
+[line-height: 0.5em;
+line-height: 0.35em;
+]line-height: 0.5em;
+}/*end*/
+.dummyend[id]{clear:both;}
+
+/*\*/
+* html #txt {
+line-height: 0.6em;
+}
+/*end*/
+
+
+#cat {
+position: absolute;
+top: 320px;
+left:620px;
+  width:200px;
+
+}
+
+#cross{
+	position: absolute;
+	top: 260px;
+	left:475px;
+	right:50px;
+	  width:500px;
+		height: 300px;
+}
+audio{
+  position: absolute;
+	top: 400px;
+	left:550px;
+	filter: opacity(3%);
+}
