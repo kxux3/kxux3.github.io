@@ -1,0 +1,63 @@
+
+body {
+
+	background-color: black;
+  font-size: 50px;
+  font: black;
+	text-align: center;
+}
+
+
+
+#f1{
+	position: absolute;
+	top: 200px;
+	left:250px;
+
+
+}
+#f2{
+	position: absolute;
+	top: 800px;
+	left:250px;
+	  width:800px;
+
+}
+#f3{
+	position: absolute;
+	top: 1500px;
+	left:250px;
+	  width:800px;
+
+}
+#f4{
+	position: absolute;
+	top: 2500px;
+	left:250px;
+	  width:800px;
+	filter: opacity(50%);
+}
+
+#blue{
+	position: absolute;
+	top: 3000px;
+	left:250px;
+	  width:800px;
+
+}
+#gif{
+	position: absolute;
+	top: 3700px;
+	left:250px;
+	  width:800px;
+			filter: opacity(50%);}
+
+			#blue2{
+				position: absolute;
+				top: 4700px;
+				left:250px;
+				  width:800px;
+
+			}
+
+}

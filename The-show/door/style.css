@@ -1,0 +1,42 @@
+
+body {
+
+	background-color: black;
+  font-size: 50px;
+  font: black;
+	text-align: center;
+}
+
+
+
+
+
+#in{
+	position: absolute;
+	top: 200px;
+left:0px;
+	  width:1400px;
+
+}
+#blue{
+	position: absolute;
+	top: 1000px;
+	left:250px;
+	  width:800px;
+
+}
+#gif{
+	position: absolute;
+	top: 2000px;
+	left:250px;
+	  width:800px;
+
+}
+
+#blue2{
+	position: absolute;
+	top: 2400px;
+	left:250px;
+	  width:800px;
+
+}

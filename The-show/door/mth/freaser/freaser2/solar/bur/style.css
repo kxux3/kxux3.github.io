@@ -1,0 +1,52 @@
+
+body {
+
+	background-color: black;
+  font-size: 50px;
+  font: black;
+	text-align: center;
+}
+
+
+
+audio{
+
+	position: absolute;
+	top: 1000px;
+	left:250px;
+	  width:800px;
+		filter: opacity(0%);
+	}
+
+#b2{
+	position: absolute;
+	top: 1000px;
+	left:250px;
+	  width:800px;
+
+}
+
+#b3{
+	position: absolute;
+	top: 1400px;
+	left:250px;
+	  width:800px;
+
+}
+
+
+#b4{
+	position: absolute;
+	top: 2300px;
+	left:250px;
+	  width:800px;
+	filter: opacity(50%);
+}
+
+#blue{
+	position: absolute;
+	top: 2900px;
+	left:250px;
+	  width:800px;
+
+}

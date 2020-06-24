@@ -1,0 +1,65 @@
+
+body {
+
+	background-color: black;
+  font-size: 50px;
+  font: black;
+	text-align: center;
+}
+
+
+video{
+	position: absolute;
+	top: 150px;
+	left:250px;
+	  width:800px;
+
+}
+
+#m1{
+	position: absolute;
+	top: 1100px;
+	left:250px;
+	  width:800px;
+
+}
+
+#m2{
+	position: absolute;
+	top: 1400px;
+	left:250px;
+	  width:800px;
+
+}
+
+#gif{
+	position: absolute;
+	top: 2300px;
+	left:250px;
+	  width:800px;
+
+}
+
+#blue{
+	position: absolute;
+	top: 2700px;
+	left:250px;
+	  width:800px;
+
+}
+
+#m3{
+	position: absolute;
+	top: 3700px;
+	left:250px;
+	  width:800px;
+
+}
+
+#blue2{
+	position: absolute;
+	top: 4200px;
+	left:250px;
+	  width:800px;
+
+}
